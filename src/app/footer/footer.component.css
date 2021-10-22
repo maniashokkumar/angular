@@ -1,0 +1,20 @@
+	/* <!-- footer --> */
+    .footer{
+        margin-top: 20px;
+	
+        background-color: #005c45;
+    }
+    .foot1{
+        padding-right:25px;
+        display:inline-block;
+        margin-top:50px;
+        list-style:none;
+        margin-left:25px;
+        color:white;
+    }
+    .foot1 li{
+        text-decoration:none;
+        
+        
+    }
+    

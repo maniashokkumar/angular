@@ -1,0 +1,24 @@
+.container{
+   
+    margin-top: 50px;
+    padding: 20px 0 20px 0;
+  
+    
+}
+.form-control, .valid-feedback, .invalid-feedback, button {
+    width: 80%;
+    margin-left: 50px;
+   
+}
+.form{
+ 
+    padding-bottom: 40px;
+    margin-top: 50px;
+    background-color: #2b7e69;
+}
+label{
+    color: white;
+}
+.form-check-label{
+    margin-left: 50px;
+}
